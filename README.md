@@ -23,6 +23,9 @@ Output: Move all consecutive consonants to the end, and add "ay".
 Input: Word includes non-alphebetical character.
 Output: Alert user that word is invalid.
 
+Input: Multiple words are input
+Output: Each word follows the above rules
+
 ## Setup/Installation Requirements
 
 ### Open by downloading
