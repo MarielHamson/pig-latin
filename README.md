@@ -8,6 +8,21 @@
 
 _{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
 
+Input: Word starts with vowel.
+Output: Add "way" to end of word.
+
+Input: Word begins with one or more consonants.
+Output: Move all consecutive consonants to the end, and add "ay".
+
+Input: Word contains "qu".
+Output: Move "u" with "q". For words where "qu" does not come first like "squeal" move "squ" together.
+
+Input: Word begins with "y"
+Output: Move all consecutive consonants to the end, and add "ay".
+
+Input: Word includes non-alphebetical character.
+Output: Alert user that word is invalid.
+
 ## Setup/Installation Requirements
 
 ### Open by downloading
